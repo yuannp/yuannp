@@ -19,7 +19,7 @@
 		"github": "",
 		"zhihu": "",
 		"workExpYear": "3年",
-		"positionTitle": "java开发工程师"
+		"positionTitle": "Java开发工程师"
 	},
 	"educationList": [{
 		"edu_time": ["2016.09.01", "2020.06.30"],
@@ -42,17 +42,15 @@
 		"award_time": "2021.07"
 	}],
 	"workExpList": [{
-		"company_name": "信雅达(杭州)计算机服务有限公司",
-		"department_name": "",
-		"work_time": ["2021.09", ""],
-		"work_desc": "-负责项目浏览器兼容性问题改造，放弃原IE浏览器升级使用chrome内核浏览器。对项目中存在兼容性问题的代码进行升级改造，测试代码运行完成度\n-按需完成java开发任务，跟进开发流程，控制交付进程",
-		"dataIndex": 0
+		"company_name": "蚂蚁集团",
+		"department_name": "体验技术部",
+		"work_time": ["2018.06", null],
+		"work_desc": "1. 担任蚂蚁高管决策和管理协同产品 “数据作战室” 的前端负责人\r\n2. 负责蚂蚁敏捷 BI 产品 “DeepInsight” 的可视分析模块产品能力建设\n3. 数据可视化 AntV 团队核心成员，负责 G2、G2Plot 开源技术的建设"
 	}, {
-		"company_name": "深圳开源互联网安全技术有限公司合肥分公司",
-		"department_name": "",
-		"work_time": ["2020.07","2021.09"],
-		"work_desc": "-主要负责任务java后端技术开发和Elasticsearch开发技术处理\n-工作期间编写elasticsearch对外查询接口，将数据库大量数据转移到elasticsearch库上，降低mysql数据库的查询压力\n-工作期间通过任务调研，与多方沟通合作完成需求目标，实现双方接口联调",
-		"dataIndex": 1
+		"company_name": "蚂蚁金服",
+		"department_name": "大数据部",
+		"work_time": ["2017.06", "2017.12"],
+		"work_desc": "前端实习生。使用 React 参与开发多类数据产品的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。"
 	}, {
 		"company_name": "数沃信息科技有限公司",
 		"department_name": "",
@@ -81,7 +79,7 @@
 	}],
 	"workList": [],
 	"aboutme": {
-		"aboutme_desc": "具有多年大型项目经历，专注在可视分析领域\n1. 项目管理: 具有独立跟进和推动项目进度经验，把控研发测试交付进展。2.可视化经验: 通用组件设计和开发经验丰富，也能完成定制可视化诉求\n其它: 1. 前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot” 2. 蚂蚁集团前端练习生 可视化讲师 3. D2论坛小游戏: https://antv.gitee.io/zh/d2, https://antv-studio.antfin.com/bless-heatmap"
+		"aboutme_desc": "具有多年大型项目经历，专注项目后端开发\n1. 项目管理：具有独立跟进和推动项目进度经验，把控研发测试交付进展。\n2.开发经验：开发经验丰富，按需完成开发任务；能保证开发代码质量，确保代码具有良好的扩展性。\n3.研发技能：熟练掌握Spring、dubbo、zookeeper、mq等分布式框架的使用；熟悉MySQL、Oracle数据库的操作及调优；熟悉使用Redis缓存中间件；熟悉Tomcat及weblogic服务器的使用。"
 	},
 	"theme": {
 		"color": "#2f5785",
